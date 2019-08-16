@@ -1,0 +1,11 @@
+framework module Cosmos {
+  umbrella header "Cosmos.h"
+
+  export *
+  module * { export * }
+}
+
+module Cosmos.Swift {
+    header "Cosmos-Swift.h"
+    requires objc
+}

@@ -1,0 +1,2 @@
+github "SwiftyJSON/SwiftyJSON" ~> 5.0
+github "evgenyneu/Cosmos" ~> 19.0

@@ -1,0 +1,10 @@
+{
+  "commitish" : "19.0.3",
+  "iOS" : [
+    {
+      "name" : "Cosmos",
+      "hash" : "270aa9f57ba21991d7db03751516dc23c3f11a649f8d9a3402ce69788e2c9d8c",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
